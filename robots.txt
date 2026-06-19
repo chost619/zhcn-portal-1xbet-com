@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chost619.github.io/zhcn-portal-1xbet-com/sitemap.xml
